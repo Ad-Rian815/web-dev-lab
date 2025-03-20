@@ -1,2 +1,3 @@
-NAME : Adrian Phiri 
-  This lab involved creating a web page using html and getting familiar with Git/GitHub
+# Web development lab 
+## Adrian Phiri 
+This lab involved creating a web page using html and getting familiar with Git/GitHub
